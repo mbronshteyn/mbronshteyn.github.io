@@ -50,10 +50,13 @@ html, body {
 }
 
 .social-links a {
+    color: blue;
     text-decoration: none;
     padding: 4px;
 }
 
 .social-links a:hover {
-    background-color: rgba(0, 0, 0, 0.1);
+    /*background-color: rgba(0, 0, 0, 0.1);*/
+    color: darkgreen;
+    text-decoration: underline;
 }
