@@ -60,3 +60,11 @@ html, body {
     color: darkgreen;
     text-decoration: underline;
 }
+
+.next {
+    position: relative;
+    clear:both;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
